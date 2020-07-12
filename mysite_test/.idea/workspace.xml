@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2f252d2-b75c-4caf-a9c4-d26b0fdcffcf" name="默认更改列表" comment="" />
+    <list default="true" id="e2f252d2-b75c-4caf-a9c4-d26b0fdcffcf" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/runoob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite_test/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite_test/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite_test/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +23,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1daTdGAIq2sVHpx0IQXneYGkxrE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -72,11 +94,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592662289659</updated>
-      <workItem from="1592662290843" duration="602000" />
+      <workItem from="1592662290843" duration="1264000" />
+      <workItem from="1593929676350" duration="8011000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1593929729676">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="366" y="229" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1593929729676" />
   </component>
 </project>
